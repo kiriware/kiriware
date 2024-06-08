@@ -6,11 +6,25 @@
 
 <h1 align="center" style="font-size: 22px">  𝔞𝔟𝔬𝔲𝔱 𝔪𝔢  </h1>
 
-  <p align="center">Hi, I'm Kiriware!</p>
+  <p align="center">Hi, I'm </p>
   <br>
   <img src="https://c.tenor.com/DAAQXWcreF4AAAAC/cirno-cirno-fumo.gif" align="right" style="width:85%;max-width:200px;"/>
-  <li><b>🤩 I'm currently learning</b> Flutter</li>
+  <li><b>🖥️ I currently work at <a href="https://medbridge.com"></b> MedBridge</a>, helping to create a better experience for patients.</li>
+  <li><b>🤩 I'm currently learning</b> Golang</li>
   
+</li>
+<br><br>
+
+<p>
+<br><br>
+</div>
+<h2 align="center" style="font-size: 22px"> 📧 Need to contact me? 📧 </h2>
+  <p align="center">
+    <br>
+    <li><b>Discord:</b> rambling</li>
+    <li><b>Email:</b> hello@cirno.codes</li>
+  </p>
+
 <!-- 
 
 Background gif
