@@ -9,8 +9,8 @@
   <p align="center">Hi, I'm </p>
   <br>
   <img src="https://c.tenor.com/DAAQXWcreF4AAAAC/cirno-cirno-fumo.gif" align="right" style="width:85%;max-width:200px;"/>
-  <li><b>🖥️ I currently work at <a href="https://medbridge.com"></b> MedBridge</a>, helping to create a better experience for patients.</li>
-  <li><b>🤩 I'm currently learning</b> Golang</li>
+
+  <li><b>🤩 I'm currently learning</b> Flutter</li>
   
 </li>
 <br><br>
@@ -21,8 +21,7 @@
 <h2 align="center" style="font-size: 22px"> 📧 Need to contact me? 📧 </h2>
   <p align="center">
     <br>
-    <li><b>Discord:</b> rambling</li>
-    <li><b>Email:</b> hello@cirno.codes</li>
+    <li><b>Discord:</b> Kireisi</li>
   </p>
 
 <!-- 
