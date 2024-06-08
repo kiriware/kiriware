@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 22px"> ᗜˬᗜ FUNKY ᗜˬᗜ (fake gif pfp only works on 1920x1080 browser in fullscreen, apologies otherwise) </h1>
+<h1 align="center" style="font-size: 22px"> ᗜˬᗜ Haiiii ᗜˬᗜ</h1>
 <div align="center"><p>
 <img max-width="400" src="https://c.tenor.com/iIpVPcee16kAAAAC/anime-cirno.gif"/>
   </p>
@@ -6,7 +6,7 @@
 
 <h1 align="center" style="font-size: 22px">  𝔞𝔟𝔬𝔲𝔱 𝔪𝔢  </h1>
 
-  <p align="center">Hi, I'm </p>
+  <p align="center">Hi, I'm Kiriware</p>
   <br>
   <img src="https://c.tenor.com/DAAQXWcreF4AAAAC/cirno-cirno-fumo.gif" align="right" style="width:85%;max-width:200px;"/>
 
